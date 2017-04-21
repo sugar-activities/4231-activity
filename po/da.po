@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-24 00:31-0400\n"
+"PO-Revision-Date: 2012-10-21 22:20+0200\n"
+"Last-Translator: Aputsiaq Niels <aj@isit.gl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid "Bridge"
+msgstr "Bro"
+
+#: physics.py:87
+#, python-format
+msgid "Total Cost: %d"
+msgstr "Samlet omkostning: %d"
+
+#: physics.py:91
+#, python-format
+msgid "Stress: %d%%"
+msgstr "Stressniveau: %d%%"
+
+#: physics.py:96
+msgid "Train fell off the screen, press R to try again!"
+msgstr "Tog faldt ud af skærmen, tast R for prøve igen!"
+
+#: physics.py:98
+msgid "Level completed, well done!!  Press T to send another train."
+msgstr "Banen er fuldført, godt klaret!  Tast T for at sende et tog mere."
+
+#: physics.py:100
+msgid "Press the Spacebar to start/pause."
+msgstr "Tryk mellemrumstasten for at starte/pause."
+
+#: tools.py:77
+msgid "Circle"
+msgstr "Cirkel"
+
+#: tools.py:117
+msgid "Girder"
+msgstr "Bærebjælke"
+
+#: tools.py:186
+msgid "Grab"
+msgstr "Grib"
+
+#: tools.py:217
+msgid "Destroy"
+msgstr "Ødelæg"
+
+#: tools.py:257
+msgid "Bridge Joint"
+msgstr "Bindeled til bro"
+
+#, python-format
+#~ msgid "%s Source"
+#~ msgstr "%s Kilde"
